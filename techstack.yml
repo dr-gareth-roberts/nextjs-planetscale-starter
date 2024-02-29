@@ -2,7 +2,7 @@ repo_name: dr-gareth-roberts/nextjs-planetscale-starter
 report_id: 5ce6140c689e065e138679dcbb28ebdb
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:02:04+00:00'
+timestamp: '2024-02-29T18:27:22+00:00'
 requested_by: tbarn
 provider: github
 branch: main
@@ -53,7 +53,7 @@ tools:
   last_updated_by: Femi Odugbesan
   last_updated_on: 2021-11-08 20:13:27.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 12.0.2
   open_source: true
@@ -144,7 +144,7 @@ tools:
   last_updated_by: Femi Odugbesan
   last_updated_on: 2021-11-08 20:13:27.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.4.1
   license: MIT
